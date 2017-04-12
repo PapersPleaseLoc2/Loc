@@ -1,4 +1,3 @@
-"CONTEXT", "ID", "TEXT"
 "AccessPermitInner","ARSTOTZKA","АРСТОТЦКА"
 "AccessPermitInner","Access Permit","Право на въезд"
 "AccessPermitInner","This permit grants conditional access to the sovereign nation of Arstotzka","Данная виза дает право временного пребывания на территории независимой Арстотцки"
@@ -3168,3 +3167,4 @@ HOLD YOUR FIRE
 "face:F43","Shaved Head","Голова бритая"
 "face:F43","No Glasses","Очков нет"
 "font-stylesheet-override","css/fonts.css","css/fonts.css"
+"CONTEXT","ID","TEXT"
