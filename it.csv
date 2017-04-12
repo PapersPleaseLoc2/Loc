@@ -1,4 +1,3 @@
-"CONTEXT", "ID", "TEXT"
 "AccessPermitInner","ARSTOTZKA","ARSTOTZKA"
 "AccessPermitInner","Access Permit","Permesso d'accesso"
 "AccessPermitInner","This permit grants conditional access to the sovereign nation of Arstotzka","Il presente dà accesso condizionato allo stato sovrano d'Arstotzka"
@@ -3168,3 +3167,4 @@ NON SPARARE
 "face:F43","Shaved Head","Testa rasata"
 "face:F43","No Glasses","Senza occhiali"
 "font-stylesheet-override","css/fonts.css","css/fonts.css"
+"CONTEXT","ID","TEXT"
