@@ -10,7 +10,7 @@
 "text:leader_rankamongworld","$0 ranked worldwide.","Na posição $0 mundialmente."
 "text:leader_error","An unknown error occurred.","Um erro desconhecido ocorreu."
 "text:leader_error_norankings","No rankings found.","Nenhuma pontuação encontrada."
-"text:leader_error_notsignedin","Not signed in.","Não está logado."
+"text:leader_error_notsignedin","Not signed in.","Você não está logado."
 "text:leader_error_maintenance","Ranking service is under maintenance.","Serviço de pontuação sob manutenção."
 "text:leader_error_ended","Ranking service has ended.","Serviço de pontuação encerrado."
 "text:leader_error_cantsubmit","Unable to submit high score.","Não foi possível enviar pontuação."
