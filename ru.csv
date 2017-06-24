@@ -1,6 +1,6 @@
 "CONTEXT (DO NOT MODIFY)","ENGLISH (DO NOT MODIFY)","LOCALIZED (EDIT THIS COLUMN)"
-"paper:BulletinInnerScrollTut","Use the directional buttons or analog sticks to quickly scroll.","Use the directional buttons or analog sticks to quickly scroll."
-"night:BUY_UPGRADE0","Booth Upgrade Available: TRIANGLE button to toggle INSPECT mode.","Обновление будки: режим ПРОВЕРКА переключается кнопкой ""ТРЕУГОЛЬНИК""."
+"paper:BulletinInnerScrollTut","Use the directional buttons or analog sticks to quickly scroll.","Используйте кнопки направлений или аналоговые джойстики для быстрого пролистывания"
+"night:BUY_UPGRADE0","Booth Upgrade Available: TRIANGLE button to toggle INSPECT mode.","Обновление будки: ПРОВЕРКА включается кнопкой ""ТРЕУГОЛЬНИК"""
 "night:BUY_UPGRADE1","Booth Upgrade Available: SQUARE button to toggle stamp bar.","Обновление будки: печать переключается кнопкой ""КВАДРАТ""."
 "text:leader_global","Global","Глобально"
 "text:leader_friends","Friends","Друзья"
